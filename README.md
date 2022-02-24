@@ -5,7 +5,7 @@ Decoder/Encoder of 26 characters.
 DE26C (Decoder/Encoder of 26 characters) is a made up text language created by RetardNuggets, JustBeChill, Q_Q, Gage and Inferno. 
 The "language" is a array of letters that correlate to the QWERTY keyboard layout. For capitalization the letter of the letter gets capitalized. If not, then keep it lower-case.
 
-https://imgur.com/jPjivxt
+https://imgur.com/6tPehIX
 
 Row A is QWERTYUIOP
 Row B is ASDFGHJKL
