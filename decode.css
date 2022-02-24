@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  background-color: #3a3a3a;
+}
+
+#dcode-Field-Div {
+  position: relative;
+  top: 125px;
+}
+
+p {
+  color: mediumaquamarine;
+  text-align: center;
+  position: relative;
+  top: -65px;
+}
