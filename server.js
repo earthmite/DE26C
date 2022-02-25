@@ -1,8 +1,8 @@
 const express = require("express");
 const path = require("path");
-const mainPath = path.resolve("./public/main/index.html");
-const encodePath = path.resolve("./public/encode/encode.html");
-const decodePath = path.resolve("./public/decode/decode.html");
+const mainPath = path.resolve("index.html");
+const encodePath = path.resolve("encode.html");
+const decodePath = path.resolve("decode.html");
 
 const app = express();
 const port = process.env.PORT || 4756;
